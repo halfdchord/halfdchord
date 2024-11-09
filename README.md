@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am a small coder that makes Some cool stuff.
-I use ChatGPT **WAY** too much. And that's basically how I code.
-I am learning to code, so this ChatGPT Habit is only temporary.
+I am Spiral, a musician, and comedian. But little known fact; I'm also a coder. But only partially. I'm still more of a novice than anything.
 
 ### What I'm Planning On Making
 - Beenz
