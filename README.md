@@ -18,7 +18,6 @@ I am a linux-first developer, because I use arch btw. If you use windows, *then 
 
 **Here's what I'm working on and planning on working on, that I might publish here.**
 - My website on vercel
-- Untitled game with intentional bugs that you are able to fix yourself
 - Uhh...
 
 Yeah, I don't know.
